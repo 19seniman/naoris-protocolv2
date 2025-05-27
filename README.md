@@ -9,26 +9,23 @@
 
 ###Git clone 
 ```
-git clone https://github.com/19seniman/send-message-to-discord.git
-cd send-message-to-discord
-python3 -m venv send-message-to-discord
-source send-message-to-discord/bin/activate
-pip3 install -r requirements.txt
-pip3 install shareithub
+git clone https://github.com/19seniman/naoris-protocolv2.git
+cd naoris-protocolv2
+python3 -m venv naoris-protocolv2
+source naoris-protocolv2/bin/activate
+pip3 install pytz colorama curl_cffi fake_useragent
 ```
-Edit file `.env` copy & paste your Gemini API & Discord token :
+fill your account & Devicehash :
 ```
-nano .env
+nano accounts.json
 ```
 Run Scrpt
 ```
-python3 chat.py
+python3 main.py
 ```
 
 ### get gemini apikey open your browser
-```
-https://ai.google.dev/gemini-api/docs/api-key
-```
+
 
 
 
