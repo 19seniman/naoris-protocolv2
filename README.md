@@ -2,19 +2,9 @@
 
 1. Multi accounts
 
-2. Multi servers
+2. auto ping 
 
-3. Gemini AI ( ON / OFF )
-
-5. Auto detecd Slow mode Server Chat ( ON / OFF )
-
-6. Auto Delete Message with Delay ( ON / OFF ). & Auto Delete message after send
-
-7. Auto Reply Message
-
-8. Auto send message with file `tersuratkan.txt`
-
-9. Auto read new chat in server
+3. support proxy 
 
 
 ###Git clone 
