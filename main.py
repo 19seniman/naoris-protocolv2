@@ -53,8 +53,8 @@ class NaorisProtocolAutomation:
         banner_lines = [
             "+------------------------------------------------------------+",
             "|                                                            |",
-            "|            NAORIS PROTOCOL AUTOMATION BOT v2.0             |",
-            "|                     @AirdropFamilyIDN                      |",   
+            "|  🍉🍉 19Seniman From Insider  - FREE PALESTINE 🍉🍉      |",
+            "|                                                            |",   
             "|                                                            |",
             "+------------------------------------------------------------+"
         ]
